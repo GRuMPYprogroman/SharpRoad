@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "01NKdSOdLUg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stepan\\Desktop\\SharpRoad\\SharpRoad\\SharpBasics\\SharpBasics\\SharpBasics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stepan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.6\\microsoft.extensions.dependencyinjection.9.0.6.nupkg.sha512",
+    "C:\\Users\\Stepan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512",
+    "C:\\Users\\Stepan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

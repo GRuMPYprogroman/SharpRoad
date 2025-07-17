@@ -1,0 +1,6 @@
+﻿services:
+  asp_client:
+    image: asp_client
+    build:
+      context: .
+      dockerfile: ASP_Client/Dockerfile

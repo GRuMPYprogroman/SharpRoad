@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP_Client", "ASP_Client\ASP_Client.csproj", "{0D25E379-8CF2-4B47-BFFE-8D3BD1FEDB81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6D09065D-3A52-4337-8014-E062CCE613C2}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D25E379-8CF2-4B47-BFFE-8D3BD1FEDB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D25E379-8CF2-4B47-BFFE-8D3BD1FEDB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D25E379-8CF2-4B47-BFFE-8D3BD1FEDB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D25E379-8CF2-4B47-BFFE-8D3BD1FEDB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
