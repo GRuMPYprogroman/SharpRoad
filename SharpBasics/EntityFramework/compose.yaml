@@ -1,0 +1,6 @@
+﻿services:
+  entityframework:
+    image: entityframework
+    build:
+      context: .
+      dockerfile: EntityFramework/Dockerfile
