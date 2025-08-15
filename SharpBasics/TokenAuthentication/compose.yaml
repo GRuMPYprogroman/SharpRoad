@@ -1,0 +1,6 @@
+﻿services:
+  privateserver:
+    image: privateserver
+    build:
+      context: .
+      dockerfile: privateServer/Dockerfile

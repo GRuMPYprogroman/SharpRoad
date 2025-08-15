@@ -1,0 +1,6 @@
+﻿services:
+  cookieauthentication:
+    image: cookieauthentication
+    build:
+      context: .
+      dockerfile: CookieAuthentication/Dockerfile

@@ -1,0 +1,6 @@
+﻿services:
+  redisserver:
+    image: redisserver
+    build:
+      context: .
+      dockerfile: RedisServer/Dockerfile

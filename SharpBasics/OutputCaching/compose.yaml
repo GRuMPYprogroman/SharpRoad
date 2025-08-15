@@ -1,0 +1,6 @@
+﻿services:
+  outputcaching:
+    image: outputcaching
+    build:
+      context: .
+      dockerfile: OutputCaching/Dockerfile
