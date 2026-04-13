@@ -1,0 +1,16 @@
+# Build artifacts
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esults/
+artifacts/
+
+# IDE / user-specific files
+.idea/
+.vs/
+*.user
+*.suo
+*.DotSettings.user
+*.sln.DotSettings.user
+
+# Legacy NuGet packages folder
+packages/

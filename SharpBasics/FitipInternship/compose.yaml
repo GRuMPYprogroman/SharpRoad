@@ -1,0 +1,7 @@
+﻿services:
+  fitipinternship:
+    image: fitipinternship
+    build:
+      context: .
+      dockerfile: FitipInternship/Dockerfile
+
